@@ -81,7 +81,7 @@ https://github.com/sadekbaroudi/qmk_firmware/tree/master/keyboards/fingerpunch/s
 
 ## ZMK (wireless version only)
 
-https://github.com/sadekbaroudi/zmk-swweeep
+https://github.com/sadekbaroudi/zmk-fingerpunch-keyboards
 
 # swweeep v1.3 fix
 
